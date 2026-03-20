@@ -1,0 +1,12 @@
+title: Yusuf Abdulnasir Abubakar
+email: yusufabdulnasir8@gmail.com
+description: >-
+  Student at RUDN University studying Computer Science.
+baseurl: ""
+url: ""
+github_username: abdulnasirpanda
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
