@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yusuf Abdulnasir Abubakar</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Yusuf Abdulnasir Abubakar</description>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>stage 3 ` Adding Skills and Experience</title>
+      <link>/posts/second-post/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/second-post/</guid>
+      <description>&lt;h2 id=&#34;this-weeks-progress&#34;&gt;This Week&amp;rsquo;s progress&lt;/h2&gt;&#xA;&lt;p&gt;This Week I completed stage 3 of my personal website project. I added&lt;/p&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming Languages (C++, python,Bash)&lt;/li&gt;&#xA;&lt;li&gt;Tools (Git, Linux, Hugo)&lt;/li&gt;&#xA;&lt;li&gt;Languages ( English, Russian, Arabic)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;RUDN University student&lt;/li&gt;&#xA;&lt;li&gt;Completed lab works in Linux and Git&lt;/li&gt;&#xA;&lt;li&gt;personal website project&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;accomplishments&#34;&gt;Accomplishments&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Completed all Linux lab works (Labs 1-6)&lt;/li&gt;&#xA;&lt;li&gt;Set up GitHub Pages personal website&lt;/li&gt;&#xA;&lt;li&gt;Learned Git flow and conventional commits&lt;/li&gt;&#xA;&lt;li&gt;C++ assignment completed with full marks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Next step: step 4 - adding academic links and more content!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>/posts/first-post/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;welcome-to-my-site&#34;&gt;Welcome to My Site&lt;/h2&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m Yusuf Abdulnasir Abubakar, a student at RUDN University studying Computer Science.&lt;/p&gt;&#xA;&lt;p&gt;This is my personal website for the project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-im-learning&#34;&gt;What I&amp;rsquo;m Learning&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linux system administration&lt;/li&gt;&#xA;&lt;li&gt;Git and version control&lt;/li&gt;&#xA;&lt;li&gt;Hugo static site generator&lt;/li&gt;&#xA;&lt;li&gt;GitHub Pages&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay tuned for more updates!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Showcase</title>
-      <link>http://localhost:1313/showcase/</link>
+      <link>/showcase/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/showcase/</guid>
+      <guid>/showcase/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello Friend</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>/posts/hello/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>/posts/hello/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/abdulnasirpanda.png&#34; alt=&#34;My photo&#34;&gt;{: width=&amp;ldquo;150&amp;rdquo;}&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m Yusuf Abdulnasir Abubakar, a student at RUDN University studying Computer Science.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linux system administration&lt;/li&gt;&#xA;&lt;li&gt;Git and version control&lt;/li&gt;&#xA;&lt;li&gt;Web development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;RUDN University&lt;/strong&gt; (2025 — present)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Faculty of Physics, Mathematics and Natural Sciences&lt;/li&gt;&#xA;&lt;li&gt;Computer Science&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;h3 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;C / C++&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;Bash scripting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tools--technologies&#34;&gt;Tools &amp;amp; Technologies&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Git / GitHub&lt;/li&gt;&#xA;&lt;li&gt;Linux (Fedora, Ubuntu)&lt;/li&gt;&#xA;&lt;li&gt;Hugo static site generator&lt;/li&gt;&#xA;&lt;li&gt;VirtualBox / UTM&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;English (Fluent)&lt;/li&gt;&#xA;&lt;li&gt;Russian (Intermediate)&lt;/li&gt;&#xA;&lt;li&gt;Arabic (Native)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Student at RUDN University&lt;/strong&gt; (2025 — present)&lt;/p&gt;</description>
     </item>
   </channel>
