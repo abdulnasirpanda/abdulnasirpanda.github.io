@@ -54,3 +54,10 @@ Hello! I'm Yusuf Abdulnasir Abubakar, a student at RUDN University studying Comp
 - Set up GitHub Pages personal website
 - Learned Git flow and conventional commits
 - C++ assignment completed with full marks
+
+## Academic profiles
+
+- [github](https://github.com/abdulnasirpanda)
+- [eLibraty](https://elibrary.ru)
+- [Google Scholar](https://scholar.com)
+- [ORCID](https://orcid.org)
