@@ -6,8 +6,22 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>/posts/scientific-programming/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/scientific-programming/</guid>
+      <description>&lt;h2 id=&#34;languages-for-scientific-computing&#34;&gt;Languages for scientific Computing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt; -High performance, used for Gaussian eliminations and matrix operations&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; - Easy syntax, Numpy/Scipy libraries&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bash&lt;/strong&gt; - Linux automation and scripting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;in my labs, I used C++ for numerical algorithms and Bash for scripting tasks&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weekly Progress - stage 5</title>
+      <link>/posts/week-progress/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/week-progress/</guid>
+      <description>&lt;h2 id=&#34;this-week&#34;&gt;This Week&lt;/h2&gt;&#xA;&lt;p&gt;This week I completed stage 5 of my personal websites project. I added:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Project section showing my laboratory works&lt;/li&gt;&#xA;&lt;li&gt;information about my C++ and Linux labs&lt;/li&gt;&#xA;&lt;li&gt;Plans for future projects&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The website now has a complete academic profile with:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Personal information&lt;/li&gt;&#xA;&lt;li&gt;Skills and experience&lt;/li&gt;&#xA;&lt;li&gt;academic links&lt;/li&gt;&#xA;&lt;li&gt;project showcase&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Next step: step 6 -&lt;/p&gt;</description>
+    </item>
     <item>
       <title>stage 3 ` Adding Skills and Experience</title>
       <link>/posts/second-post/</link>
